@@ -4,8 +4,7 @@ I'm a passionate computer science student with a love for innovation, problem-so
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
-- **ICS 2 CC Certification**: Deepening my knowledge of cybersecurity fundamentals and best practices.
+🔭 I’m currently working on **ICS 2 CC Certification**: Deepening my knowledge of cybersecurity fundamentals and best practices.
 
   
 ### 🌱 I’m currently learning
