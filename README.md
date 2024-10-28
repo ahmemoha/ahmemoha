@@ -1,12 +1,9 @@
 ## Hi there 👋 I'm Ahmed Mohamed!
 
-I'm a passionate computer science student with a love for innovation, problem-solving, and staying on the cutting edge of technology. Currently studying at the University of Calgary, I’m working towards hands-on experience through an internship, where I can leverage my programming skills and passion for sports data analysis in real-world applications.
+I'm a passionate computer science student with a love for innovation, problem-solving, and staying on the cutting edge of technology. Currently studying at the University of Calgary.
 
-Here are some ideas to get you started:
+##🔭 I’m currently working on **ICS 2 CC Certification**: Deepening my knowledge of cybersecurity fundamentals and best practices.
 
-🔭 I’m currently working on **ICS 2 CC Certification**: Deepening my knowledge of cybersecurity fundamentals and best practices.
-
-  
 ### 🌱 I’m currently learning
 - Advanced algorithms and data structures (CPSC 413)
 - Functional programming and paradigms (CPSC 449)
