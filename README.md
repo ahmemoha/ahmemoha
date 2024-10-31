@@ -9,6 +9,6 @@ I'm a passionate computer science student with a love for innovation, problem-so
 👯 I’m looking to collaborate on data-driven applications, particularly those with a sports or gaming focus. Projects involving real-time data analysis or user interface design
 
 ### 📫 How to reach me:
-- **Email**: [Am200418@gmail.com]
+- **Email**: [ahmed.mohamed4@ucalgary.ca]
 - **LinkedIn**: [linkedin.com/in/ahmmoha]
 
